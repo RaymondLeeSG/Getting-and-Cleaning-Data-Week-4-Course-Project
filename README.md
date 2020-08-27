@@ -1,9 +1,5 @@
 # Getting-and-Cleaning-Data-Week-4-Course-Project
-title	output	author	date
-ReadMe.Md
-github_document
-Kim Seng LEe
-Aug 27, 2020
+
 Course Project Overview
 
 Johns Hopkins Data Science Specialization Getting and Cleaning Data Coursera Week 4 Class Project
